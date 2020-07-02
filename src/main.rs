@@ -17,5 +17,5 @@ fn main() {
 		(fahrenheit - 32) * 5/9
 	};
 	
-	println!("celsius is {}", celsius);
+	println!("Celsius is {}", celsius);
 }
